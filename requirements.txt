@@ -1,0 +1,4 @@
+xlrd
+openpyxl
+pylint
+black
