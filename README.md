@@ -37,10 +37,6 @@ Use the requirements.txt file to install a virtual environment and then activate
 
 ### Mermaid diagram
 
-![flow](diagram.PNG)
-
-Mermaid code here:
-
 ```mermaid
 graph TD
     REQUIREMENTS_EXCEL[Requirements Excel]
